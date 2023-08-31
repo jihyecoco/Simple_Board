@@ -1,0 +1,5 @@
+@import url("//fonts.googleapis.com/earlyaccess/notosanskr.css"); 
+@import url("//cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css"); 
+*{
+	font-family: nanumsquare;
+}
